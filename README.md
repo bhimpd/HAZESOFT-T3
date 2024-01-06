@@ -2,12 +2,19 @@
 script for backup
 
 I created the repo named as “HAZESOFT-T3” in github account.
+
 Then i created the file “bacup.sh” inside the hazesoft/shellscript using following command
+
 mkdir hazesoft
+
 cd hazesoft
+
 mkdir shellscript
+
 touch backup.sh
+
 Then i write the following command inside the backup.sh file
+
 #!/bin/bash
 
 # check if directory path is provided as an argument
