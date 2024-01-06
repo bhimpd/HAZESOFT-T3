@@ -46,6 +46,3 @@ bash backup.sh ../shellscript
 
 Then backup is done..
 
-The executed command shows the above result..
-
-We can see the backup files  in the backup directory.
